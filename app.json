@@ -1,0 +1,8 @@
+{
+  "name": "musavirlik",
+  "displayName": "musavirlik",
+  "android" : {
+    "package": "com.safari.musavirlik",
+    "googleServicesFile" : "./google-services.json"
+  }
+}

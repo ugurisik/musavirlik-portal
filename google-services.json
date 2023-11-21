@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1068928630853",
+    "project_id": "push-notification-19b7a",
+    "storage_bucket": "push-notification-19b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068928630853:android:e1d656e8ef8d38181de32c",
+        "android_client_info": {
+          "package_name": "com.musavirlik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xxCjno68iJhFSGZkUPhKKjJUNSConbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068928630853:android:0e2689c3d80d5b5b1de32c",
+        "android_client_info": {
+          "package_name": "com.notificationsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xxCjno68iJhFSGZkUPhKKjJUNSConbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068928630853:android:dbb0a47c0949bf361de32c",
+        "android_client_info": {
+          "package_name": "com.safari.musavirlik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xxCjno68iJhFSGZkUPhKKjJUNSConbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
